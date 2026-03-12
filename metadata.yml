@@ -1,0 +1,12 @@
+---
+:id: 352731626
+:submitters:
+- :name: Genevieve Drouin
+  :email: gdrouin@uri.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-09-29 21:41:48.227226000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-09-29 14:41:48.227226000 Z
+:status: processed
+:score: 102.66
